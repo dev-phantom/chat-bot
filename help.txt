@@ -1,0 +1,12 @@
+phantom chat bot is just a fun app
+with specific questions. Here are some questions you can ask:
+what's your name?
+who owns you?
+who created you?
+how are you?
+how are you doing?
+what's up?
+hello
+i have a question.
+please note that all questions should be written in lower case
+also all questions should end with a question mark "?"
